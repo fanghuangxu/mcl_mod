@@ -1,0 +1,31 @@
+{
+    "forge" : [
+        {  
+            "name":"可繁殖的杀手兔",
+            "minecraft_version":"1.20.4",
+            "url":"https://mediafilez.forgecdn.net/files/5169/87/breedablekillerrabbit-1.20.4-3.5.jar",
+            "file_name":"BreedableKillerRabbit.jar"
+        },
+        {
+            "name":"稀有精英怪",
+            "minecraft_version":"1.20.4",
+            "url":"https://mediafilez.forgecdn.net/files/5151/259/infernalmobs-1.20.4.2NF.jar",
+            "file_name":"infernalmobs-1.20.4.2NF.jar"
+        }
+
+    ],
+    "fabric" : [
+        {
+            "name":"高级透视",
+            "minecraft_version":"1.20.4",
+            "url":"https://mediafilez.forgecdn.net/files/4941/453/advanced-xray-fabric-84.0.0.jar",
+            "file_name":"advanced-xray-fabric-84.0.0.jar"            
+        },
+        {
+            "name":"围火无怪",
+            "minecraft_version":"1.17.1",
+            "url":"https://mediafilez.forgecdn.net/files/3539/853/nohostilesaroundcampfire-fabric_1.17.x-3.8.jar",
+            "file_name":"nohostilesaroundcampfire-fabric_1.17.x-3.8.jar"            
+        }
+    ]
+}
